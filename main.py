@@ -1,5 +1,5 @@
-username = ""
-password = ""
+username = "youname"
+password = "yourpassword"
 new_repositorie_name = 'easyGigHubRepositorie'
 new_repositorie_description = 'none'
 
